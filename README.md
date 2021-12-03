@@ -1,2 +1,5 @@
 # call-mr-or-ms
-midterm project  of Internet Engineering academic course that helps to call the name of males and females.
+A simple web page for recongnize the gender of name that entered in the specific part
+* If we had the gender, we'll show it in the saved part
+* Otherwise we'll call an API to find the gender
+
